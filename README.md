@@ -1,2 +1,11 @@
-# NUS-test3-20210111
-To learn about Git
+# This is a test repository
+
+## This text is somehow smaller
+
+Dummy text.
+
+### Here is a list of things we will do later today:
+* more Git
+* cloud with Glbert
+* Docker if time permits
+
