@@ -8,4 +8,4 @@ Dummy text.
 * more Git
 * cloud with Glbert
 * Docker if time permits
-
+* hand out reading assignments and homework
