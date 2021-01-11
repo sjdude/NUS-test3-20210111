@@ -16,5 +16,3 @@ Dummy text.
 #Testing git from VScode - adding new lines and a new file
 
 ![](logo.jpg)
-
-testttt
