@@ -11,3 +11,5 @@ Dummy text.
 * hand out reading assignments and homework
 
 ![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
+
+test
