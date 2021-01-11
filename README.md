@@ -10,6 +10,4 @@ Dummy text.
 * Docker if time permits
 * hand out reading assignments and homework
 
-![](logo.jpg)
-
 ![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
