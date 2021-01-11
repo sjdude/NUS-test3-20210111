@@ -9,3 +9,4 @@ Dummy text.
 * cloud with Glbert
 * Docker if time permits
 * hand out reading assignments and homework
+![](logo.jpg)
