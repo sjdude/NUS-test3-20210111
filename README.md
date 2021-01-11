@@ -14,4 +14,5 @@ Dummy text.
 ![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
 
 #Testing git from VScode - adding new lines and a new file
+
 ![](logo.jpg)
